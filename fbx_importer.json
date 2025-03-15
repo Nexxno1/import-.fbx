@@ -1,0 +1,11 @@
+{
+    "id": "fbx_importer",
+    "title": "FBX Importer",
+    "author": "nexx",
+    "description": "Позволяет загружать .fbx файлы в Blockbench.",
+    "version": "1.0.0",
+    "icon": "import_export",
+    "variant": "both",
+    "tags": ["import", "fbx"],
+    "repository": "https://github.com/твой-github/blockbench-fbx-importer"
+}
